@@ -12,6 +12,8 @@ write: 2
 execute: 1
 
 In the following command:
+
 chmod 777 filename
+
 The value, 7 that occurred for the first time indicates that User has been assigned read, write and execute permissions on given filename.
 The subsequent value, 7 is for Group of users and the final value, 7 is assigned to Others.  
